@@ -1,0 +1,1 @@
+echo -e "pycryptodome\nPillow" > requirements.txt  # This command creates and adds dependencies directly
