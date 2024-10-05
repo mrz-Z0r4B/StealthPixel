@@ -27,6 +27,9 @@ Make sure to install the pycryptodome package if it's required for encryption:
 ```bash
 pip install pycryptodome
 ```
+```bash
+pip install Pillow
+```
 
 ### Step 4: Run the Tool
 To use Ste@lTh.P!xeL, run the tool by executing the following command:
