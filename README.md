@@ -1,6 +1,6 @@
 # StealthPixel
 
-**Ste@lTh.P!xeL** is a powerful image encryption tool that exclusively supports **PNG** files for both encryption and decryption. This tool ensures secure encryption of sensitive images using cryptographic techniques, making it ideal for protecting personal and confidential visual data.
+**StealthPixelL** is a powerful image encryption tool that exclusively supports **PNG** files for both encryption and decryption. This tool ensures secure encryption of sensitive images using cryptographic techniques, making it ideal for protecting personal and confidential visual data.
 
 ## Features
 - **PNG-Only Support**: Encrypt and decrypt only **PNG** image files.
